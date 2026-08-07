@@ -91,11 +91,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <img src="https://img.shields.io/github/stars/dudaalari?style=for-the-badge">
 
 </p>
-
-
-## 📂 Meus projetos
-
-Aqui no GitHub você encontrará projetos desenvolvidos durante meus estudos, desafios pessoais e trabalhos acadêmicos, sempre buscando aplicar boas práticas de programação e evolução contínua.
-
-
-⭐ Obrigada por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução na área de tecnologia.
