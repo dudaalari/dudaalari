@@ -1,33 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2D1B2E,50:6B2C5E,100:C97B84&height=200&section=header&text=QUEZIA%20BRITO&fontSize=46&fontColor=F5EBE0&fontAlignY=45&animation=fadeIn&desc=UM%20DOS%20%3FA%20EEM%20%C3%93DIGO%20DO%20%2B?%20VOL.%20?&descAlignY=65&descSize=15&descColor=DAAF7A" width="100%"/>
+<div align="center">
 
-<sub>ESTOU 01&nbsp;dspj • São Paulo, BRASIL 🇧🇷 • EST. IN PROGRESS(/SU)</sub>
-<sub>EDIÇÃO M01 &nbsp;•&nbsp; SÃO PAULO, BRASIL 🇧🇷 • EM CONSTRUÇÃO</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:FFFFFF&height=220&section=header&text=LARISSA%20EDUARDA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas%20•%20Tecnologia%20•%20Sempre%20Aprendendo&descAlignY=60&descSize=18&descColor=F3F4F6"/>
 
-<br><br>
+<h2>Desenvolvedora em formação 💜</h2>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=20&duration=3500&pause=1200&color=C97B84&center=true&vCenter=true&width=600&lines=finan%C3%A7as+por+profiss%C3%A3o%2C+c%C3%B3digo+por+escolha%3B+a+prova+de+que+a+l%C3%B3gica+tamb%C3%A9m+usa+batom%3B+editando+minha+pr%C3%B3pria+hist%C3%B3ria%2C+commit+por+commit" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+código.;Sempre+aprendendo+algo+novo.;Criando+soluções+com+dedicação.;Bem-vindo(a)+ao+meu+GitHub!"/>
 
 </div>
 
-<tr>
-  <td width="60%" valign="top">
+---
 
-## SOBRE MIM
+## 💜 sobre mim
 
-> *"Ela mantém as contas equilibradas durante o dia, e escreve a lógica que se equilibra sozinha à noite."*
+sou **larissa eduarda**, estudante do **3º ano do ensino médio integrado ao curso técnico em desenvolvimento de sistemas**. gosto de transformar desafios em soluções através da programação e estou sempre buscando evoluir meus conhecimentos e desenvolver projetos que contribuam para meu crescimento profissional.
 
-Quezia da Paz Brito Silva é estudante de Desenvolvimento de Sistemas no **SENAI São Paulo**, atualmente trabalhando no setor financeiro de um escritório de advocacia — onde a precisão encontra a paciência.
+acredito que dedicação, organização e aprendizado contínuo são essenciais para construir uma carreira sólida na tecnologia. cada projeto representa uma oportunidade de aprender algo novo e aprimorar minhas habilidades.
 
-Ela está reconstruindo seu caminho linha por linha, tratando cada função como uma roupa sob medida: nada sobressalente, tudo intencional.
+---
 
-Ela não está atrás de tendências. Ela está criando a sua própria — do tipo em que a disciplina parece não exigir esforço.
+## 🚀 tecnologias e conhecimentos
 
-  </td>
+<div align="center">
 
-  <td width="40%" valign="top" align="center">
+![HTML5](https://img.shields.io/badge/HTML5-5B21B6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/STATUS-2D1B2E?style=for-the-badge&labelColor=2D1B2E&color=C97B84"/><br>
+</div>
 
-<sub>depurando no momento, plena</sub>
+---
 
-<br><br>
+## 📌 atualmente
+
+```txt
+📚 estudando desenvolvimento de sistemas
+💻 desenvolvendo projetos pessoais e acadêmicos
+🌱 aprendendo novas tecnologias todos os dias
