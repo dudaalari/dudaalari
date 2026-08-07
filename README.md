@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Larissa Eduarda!
+# Larissa Eduarda.
 
 🎓 Sou estudante do **3º ano do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas** e estou construindo minha carreira na área de **Tecnologia da Informação**.
 
@@ -86,6 +86,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 </p>
 
+## 📊 Estatísticas
+
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=dudaalari&show_icons=true&theme=github_dark"/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaalari&layout=compact&theme=github_dark"/>
+
+</p>
 ## 📚 Atualmente
 
 - 📖 Aprimorando meus conhecimentos em Desenvolvimento de Sistemas.
