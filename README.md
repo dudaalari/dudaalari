@@ -1,40 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:FFFFFF&height=220&section=header&text=LARISSA%20EDUARDA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas%20•%20Tecnologia%20•%20Sempre%20Aprendendo&descAlignY=60&descSize=18&descColor=F3F4F6"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:2E1065,35:5B21B6,70:8B5CF6,100:F8FAFC&text=Larissa%20Eduarda&fontColor=FFFFFF&fontSize=72&fontAlignY=40&animation=fadeIn&desc=Desenvolvedora%20de%20Sistemas%20•%20Criando%20soluções%20com%20criatividade&descAlignY=62&descSize=20&descColor=E9D5FF"/>
 
-<h2>Desenvolvedora em formação 💜</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+código.;Sempre+aprendendo+algo+novo.;Criando+soluções+com+dedicação.;Bem-vindo(a)+ao+meu+GitHub!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Transformando+ideias+em+código.;Aprendendo+algo+novo+a+cada+projeto.;Sempre+em+evolução."/>
 
 </div>
 
 ---
 
-## 💜 sobre mim
+# 💜 sobre mim
 
-sou **larissa eduarda**, estudante do **3º ano do ensino médio integrado ao curso técnico em desenvolvimento de sistemas**. gosto de transformar desafios em soluções através da programação e estou sempre buscando evoluir meus conhecimentos e desenvolver projetos que contribuam para meu crescimento profissional.
+Olá! Sou **Larissa Eduarda**, estudante do **3º ano do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas**.
 
-acredito que dedicação, organização e aprendizado contínuo são essenciais para construir uma carreira sólida na tecnologia. cada projeto representa uma oportunidade de aprender algo novo e aprimorar minhas habilidades.
+Sou apaixonada por tecnologia e gosto de transformar ideias em projetos que unem criatividade, organização e aprendizado. Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e desenvolver soluções que façam a diferença.
+
+Acredito que dedicação, curiosidade e evolução constante são os principais pilares para construir uma carreira sólida na área de tecnologia.
 
 ---
 
-## 🚀 tecnologias e conhecimentos
+# 🚀 tecnologias
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-5B21B6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode,windows"/>
 
 </div>
 
 ---
 
-## 📌 atualmente
+# 📊 github
 
-```txt
-📚 estudando desenvolvimento de sistemas
-💻 desenvolvendo projetos pessoais e acadêmicos
-🌱 aprendendo novas tecnologias todos os dias
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dudaalari&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaalari&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 atualmente
+
+```text
+💜 Estudando Desenvolvimento de Sistemas
+
+📚 Aprendendo novas tecnologias diariamente
+
+💻 Desenvolvendo projetos acadêmicos e pessoais
+
+🚀 Construindo minha trajetória na tecnologia
+```
+
+---
+
+# 📫 contato
+
+<div align="center">
+
+<a href="https://github.com/dudaalari">
+<img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Cada linha de código é um passo em direção aos meus objetivos."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,40:5B21B6,70:8B5CF6,100:F8FAFC&height=120&section=footer"/>
+
+</div>
