@@ -47,8 +47,8 @@ Acredito que dedicação, curiosidade e evolução constante são os principais 
 
 <div align="center">
 
-<a href="[https://github.com/dudaalar](https://github.com/dudaalari)">
-<img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/dudaalari" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-dudaalari-2E1065?style=for-the-badge&logo=github&logoColor=white&labelColor=111111"/>
 </a>
 
 <a href="https://www.linkedin.com/in/larissa-eduarda-braz-da-silva-848071360/" target="_blank">
