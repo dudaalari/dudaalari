@@ -6,13 +6,19 @@
 
 ## 🚀 Tecnologias que utilizo
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Java
-- SQL
-- Git & GitHub
+<p align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white">
+
+<img src="https://img.shields.io/github/followers/dudaalari?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/github/stars/dudaalari?style=for-the-badge">
+
+</p>
 
 ## 📚 Atualmente
 
