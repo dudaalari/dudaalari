@@ -1,12 +1,18 @@
 # Larissa Eduarda.
+Estudante do Curso Técnico em Desenvolvimento de Sistemas. Gosto de aprender coisas novas, enfrentar desafios e transformar ideias em soluções por meio da tecnologia. Estou sempre buscando evoluir, tanto técnica quanto pessoalmente, e utilizo este espaço para compartilhar os projetos que fazem parte da minha trajetória.
 
-🎓 Sou estudante do **3º ano do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas** e estou construindo minha carreira na área de **Tecnologia da Informação**.
+## 🎯 Objetivos
 
-💻 Tenho interesse em desenvolvimento de software, banco de dados e, principalmente, **Análise de Dados**, área na qual pretendo me especializar. Gosto de transformar informações em conhecimento, resolver problemas e desenvolver soluções que gerem impacto.
+- Evoluir constantemente como desenvolvedora.
+- Adquirir experiência profissional na área de tecnologia.
+- Contribuir para projetos inovadores e continuar aprendendo novas tecnologias.
+
+
+
 ## 🤖 Linguagens e Tecnologias
 
 <p>
-
+ 
 <img
 align="left"
 alt="HTML"
@@ -86,40 +92,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 </p>
 
-## 📊 Estatísticas
-
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=dudaalari&show_icons=true&theme=github_dark"/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaalari&layout=compact&theme=github_dark"/>
-
-</p>
-## 📚 Atualmente
-
-- 📖 Aprimorando meus conhecimentos em Desenvolvimento de Sistemas.
-- 📊 Estudando Análise e Visualização de Dados.
-- 💡 Desenvolvendo projetos para fortalecer meu portfólio.
-
-## 🎯 Objetivos
-
-- Evoluir constantemente como desenvolvedora.
-- Adquirir experiência profissional na área de tecnologia.
-- Contribuir para projetos inovadores e continuar aprendendo novas tecnologias.
 
 ## 📂 Meus projetos
 
 Aqui no GitHub você encontrará projetos desenvolvidos durante meus estudos, desafios pessoais e trabalhos acadêmicos, sempre buscando aplicar boas práticas de programação e evolução contínua.
 
-## 📫 Contato
-
-- LinkedIn: *(adicione o link do seu perfil)*
-- E-mail: *(adicione seu e-mail)*
-
----
 
 ⭐ Obrigada por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução na área de tecnologia.
