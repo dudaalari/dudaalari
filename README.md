@@ -52,7 +52,7 @@ Acredito que dedicação, curiosidade e evolução constante são os principais 
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="[https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/larissa-eduarda-braz-da-silva-848071360/)"/>
 </a>
 
 </div>
