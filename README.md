@@ -1,93 +1,33 @@
-# Larissa Eduarda.
-Estudante do Curso Técnico em Desenvolvimento de Sistemas. Gosto de aprender coisas novas, enfrentar desafios e transformar ideias em soluções por meio da tecnologia. Estou sempre buscando evoluir, tanto técnica quanto pessoalmente, e utilizo este espaço para compartilhar os projetos que fazem parte da minha trajetória.
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2D1B2E,50:6B2C5E,100:C97B84&height=200&section=header&text=QUEZIA%20BRITO&fontSize=46&fontColor=F5EBE0&fontAlignY=45&animation=fadeIn&desc=UM%20DOS%20%3FA%20EEM%20%C3%93DIGO%20DO%20%2B?%20VOL.%20?&descAlignY=65&descSize=15&descColor=DAAF7A" width="100%"/>
 
-## 🎯 Objetivos
+<sub>ESTOU 01&nbsp;dspj • São Paulo, BRASIL 🇧🇷 • EST. IN PROGRESS(/SU)</sub>
+<sub>EDIÇÃO M01 &nbsp;•&nbsp; SÃO PAULO, BRASIL 🇧🇷 • EM CONSTRUÇÃO</sub>
 
-- Evoluir constantemente como desenvolvedora.
-- Adquirir experiência profissional na área de tecnologia.
-- Contribuir para projetos inovadores e continuar aprendendo novas tecnologias.
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=20&duration=3500&pause=1200&color=C97B84&center=true&vCenter=true&width=600&lines=finan%C3%A7as+por+profiss%C3%A3o%2C+c%C3%B3digo+por+escolha%3B+a+prova+de+que+a+l%C3%B3gica+tamb%C3%A9m+usa+batom%3B+editando+minha+pr%C3%B3pria+hist%C3%B3ria%2C+commit+por+commit" />
 
+</div>
 
-## 🤖 Linguagens e Tecnologias
+<tr>
+  <td width="60%" valign="top">
 
-<p>
- 
-<img
-align="left"
-alt="HTML"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+## SOBRE MIM
 
-<img
-align="left"
-alt="CSS"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+> *"Ela mantém as contas equilibradas durante o dia, e escreve a lógica que se equilibra sozinha à noite."*
 
-<img
-align="left"
-alt="JavaScript"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+Quezia da Paz Brito Silva é estudante de Desenvolvimento de Sistemas no **SENAI São Paulo**, atualmente trabalhando no setor financeiro de um escritório de advocacia — onde a precisão encontra a paciência.
 
-<img
-align="left"
-alt="TypeScript"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+Ela está reconstruindo seu caminho linha por linha, tratando cada função como uma roupa sob medida: nada sobressalente, tudo intencional.
 
-<img
-align="left"
-alt="React"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+Ela não está atrás de tendências. Ela está criando a sua própria — do tipo em que a disciplina parece não exigir esforço.
 
-<img
-align="left"
-alt="Bootstrap"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </td>
 
-<img
-align="left"
-alt="PHP"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <td width="40%" valign="top" align="center">
 
-<img
-align="left"
-alt="Laravel"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img src="https://img.shields.io/badge/STATUS-2D1B2E?style=for-the-badge&labelColor=2D1B2E&color=C97B84"/><br>
 
-<img
-align="left"
-alt="Git"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<sub>depurando no momento, plena</sub>
 
-<img
-align="left"
-alt="Python"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-</p>
-
-<br><br><br>
-
-
-<p align="center">
-<p align="center">
-<a href="https://www.linkedin.com/in/larissa-eduarda-braz-da-silva-848071360/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white">
-
-<img src="https://img.shields.io/github/followers/dudaalari?style=for-the-badge&logo=github">
-
-<img src="https://img.shields.io/github/stars/dudaalari?style=for-the-badge">
-
-</p>
+<br><br>
