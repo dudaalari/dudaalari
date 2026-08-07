@@ -10,7 +10,7 @@
 
 # 💜 sobre mim
 
-Olá! Sou **Larissa Eduarda**, estudante do **3º ano do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas**.
+Oii! Sou **Larissa Eduarda**, estudante do **3º ano do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas**.
 
 Sou apaixonada por tecnologia e gosto de transformar ideias em projetos que unem criatividade, organização e aprendizado. Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e desenvolver soluções que façam a diferença.
 
@@ -28,17 +28,6 @@ Acredito que dedicação, curiosidade e evolução constante são os principais 
 
 ---
 
-# 📊 github
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dudaalari&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaalari&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
 
 # 🌱 atualmente
 
@@ -58,7 +47,7 @@ Acredito que dedicação, curiosidade e evolução constante são os principais 
 
 <div align="center">
 
-<a href="https://github.com/dudaalari">
+<a href="[https://github.com/dudaalar](https://github.com/dudaalari)">
 <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
